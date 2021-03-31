@@ -16,7 +16,7 @@ keyring==7.3
 launchpadlib==1.10.3
 lazr.restfulclient==0.13.4
 lazr.uri==1.0.3
-lxml==3.5.0
+lxml==4.6.3
 oauth==1.0.1
 oauthlib==1.0.3
 PAM==0.4.2
