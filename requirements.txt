@@ -6,7 +6,7 @@ chardet==2.3.0
 compizconfig-python==0.9.12.3
 cryptography==1.2.3
 dirspec==13.10
-Django==1.11.18
+Django==2.2.24
 enum34==1.1.2
 html5lib==0.999
 httplib2==0.9.1
